@@ -65,6 +65,10 @@ If there is an ip in the database or if authorization is successful, the server 
 
 When the client application's close button is clicked, a request is sent to the server to delete the token. This is how the session ends.
 
+The interaction of the client application with the server can be seen in the following screenshot:
+
+![Logs](https://user-images.githubusercontent.com/57837079/172589603-f9b4a30a-922b-4d4f-85cc-8915128a0f56.png)
+
 By the way, to start the server, you need to install python 3 and the flask library on your computer, and then, being in the folder where the script is located, write the following commands in the console
 
 For windows:
