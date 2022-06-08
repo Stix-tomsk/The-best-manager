@@ -88,4 +88,4 @@ The goals that this application implements are extremely important and useful in
 
 + All employees who played exceeded their work plans by 5-15%
 + These employees noted an increased interest in the job
-+ The same employees noted that the work has become much more exciting and interesting for them.
++ The same employees noted that the work has become much more exciting and psychologically easier for them.
